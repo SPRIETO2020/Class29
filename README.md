@@ -1,2 +1,2 @@
-# Class29
-catapult and rubber band (learned about colorzilla/color picker)
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
